@@ -1,0 +1,310 @@
+{
+  "5c33307d08060e6d609fc7d62bcb5656" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c7b411a0cb319f42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611930958887,
+        "stop" : 1611930983666,
+        "duration" : 24779
+      }
+    } ]
+  },
+  "95d1521f6b4a7e3678a2ffe9f1dda7b7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "86eeab477fe295f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611687931002,
+        "stop" : 1611687955551,
+        "duration" : 24549
+      }
+    } ]
+  },
+  "1a36b43eca5743660833fe956bb82a1c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "87bd090d018d668b",
+      "status" : "broken",
+      "statusDetails" : "The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource",
+      "time" : {
+        "start" : 1611698060529,
+        "stop" : 1611698060598,
+        "duration" : 69
+      }
+    } ]
+  },
+  "12807bd6be92f22d9e5b90b85dc71a36" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "18fcd53efc47b491",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611700546571,
+        "stop" : 1611700546685,
+        "duration" : 114
+      }
+    } ]
+  },
+  "7053a9f582924a200199b68a57162a91" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1535fcdcb8231070",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611802890090,
+        "stop" : 1611802890091,
+        "duration" : 1
+      }
+    } ]
+  },
+  "f525376cbb29b04306c72ca578a4ab63" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8fcad47e12d2049b",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.TextView\" because element wasn't found",
+      "time" : {
+        "start" : 1611801917278,
+        "stop" : 1611801923055,
+        "duration" : 5777
+      }
+    } ]
+  },
+  "2c1a35c8bb362edb2b31677dc8368cb8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9b5eb6b958426763",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611930932510,
+        "stop" : 1611930938895,
+        "duration" : 6385
+      }
+    } ]
+  },
+  "35a72f0c0aa9d339c95ced592248de7e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4623af8457033926",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611782662331,
+        "stop" : 1611782691323,
+        "duration" : 28992
+      }
+    } ]
+  },
+  "c9c3a02ef4167765ff5e0a473be1a4d7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dcd08d6222510968",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611930938895,
+        "stop" : 1611930939005,
+        "duration" : 110
+      }
+    } ]
+  },
+  "480cf5b1170a66a0f259d040a56fa477" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c13ea11ea6e71fd2",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.widget.RelativeLayout/android.widget.EditText\" because element wasn't found",
+      "time" : {
+        "start" : 1611930540122,
+        "stop" : 1611930549674,
+        "duration" : 9552
+      }
+    } ]
+  },
+  "181b1dbce940f16866aa00d794abab97" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6c2b44612190e2af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611930919089,
+        "stop" : 1611930923631,
+        "duration" : 4542
+      }
+    } ]
+  },
+  "c24e8615c43a5786b9b0654512f114a0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "215c6892fa4dd3a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611782691324,
+        "stop" : 1611782691324,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6caf4e4d1978f79a6aed6ab59f854933" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b6fba465ab6ba3ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611930918472,
+        "stop" : 1611930919088,
+        "duration" : 616
+      }
+    } ]
+  },
+  "5835009a1cda1c639e2b1e422bd8410" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c0aa0a4bbe9f6694",
+      "status" : "broken",
+      "statusDetails" : "Invalid CSS selector ' /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.ImageView[1]'. Reason: 'Error: Rule expected but \"/\" found.'",
+      "time" : {
+        "start" : 1611798510908,
+        "stop" : 1611798510953,
+        "duration" : 45
+      }
+    } ]
+  },
+  "b21f187c9739edd0abdd8ec8c174b2d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "14bb5ddd0f2dbada",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611700526378,
+        "stop" : 1611700546569,
+        "duration" : 20191
+      }
+    } ]
+  },
+  "3b441201c7d7a85ff9863fb5c5daa885" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a8b62f03bdb681d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611930923632,
+        "stop" : 1611930932509,
+        "duration" : 8877
+      }
+    } ]
+  }
+}

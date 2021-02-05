@@ -1,0 +1,298 @@
+{
+  "uid" : "9b5eb6b958426763",
+  "name" : "When I click on the store to localize",
+  "fullName" : "Validate if the homepage gets displayed.When I click on the store to localize",
+  "historyId" : "2c1a35c8bb362edb2b31677dc8368cb8",
+  "time" : {
+    "start" : 1611930932510,
+    "stop" : 1611930938895,
+    "duration" : 6385
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click on the store to localize"
+  }, {
+    "name" : "package",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554 11-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2f38f45d8d25d229",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611930831325,
+        "stop" : 1611930837613,
+        "duration" : 6288
+      }
+    }, {
+      "uid" : "2d1c06c341571304",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611802659526,
+        "stop" : 1611802665508,
+        "duration" : 5982
+      }
+    }, {
+      "uid" : "8404f9542cb98dfe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611802157434,
+        "stop" : 1611802163223,
+        "duration" : 5789
+      }
+    }, {
+      "uid" : "eba2b662b87da6f3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611802042415,
+        "stop" : 1611802048249,
+        "duration" : 5834
+      }
+    }, {
+      "uid" : "a844694b2b0361ea",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"~SCARBOROUGH #7001\" because element wasn't found",
+      "time" : {
+        "start" : 1611797791486,
+        "stop" : 1611797796608,
+        "duration" : 5122
+      }
+    }, {
+      "uid" : "b687f07b803516f9",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"~SCARBOROUGH #7001\" because element wasn't found",
+      "time" : {
+        "start" : 1611797608665,
+        "stop" : 1611797613731,
+        "duration" : 5066
+      }
+    }, {
+      "uid" : "d156900483aa46cf",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"~SCARBOROUGH #7001\" because element wasn't found",
+      "time" : {
+        "start" : 1611797534271,
+        "stop" : 1611797539327,
+        "duration" : 5056
+      }
+    }, {
+      "uid" : "9106d1c5e3f9374",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"~SCARBOROUGH #7001\" because element wasn't found",
+      "time" : {
+        "start" : 1611797437952,
+        "stop" : 1611797443028,
+        "duration" : 5076
+      }
+    }, {
+      "uid" : "97e7998fb976d24b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611797308843,
+        "stop" : 1611797315539,
+        "duration" : 6696
+      }
+    }, {
+      "uid" : "83ffed454fecad83",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"~SCARBOROUGH #7001\" because element wasn't found",
+      "time" : {
+        "start" : 1611793840294,
+        "stop" : 1611793845351,
+        "duration" : 5057
+      }
+    }, {
+      "uid" : "403f51caf686783",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611793775721,
+        "stop" : 1611793782175,
+        "duration" : 6454
+      }
+    }, {
+      "uid" : "2b74c099bcefa993",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611789878128,
+        "stop" : 1611789884519,
+        "duration" : 6391
+      }
+    }, {
+      "uid" : "69f4218a2485b6b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611788119285,
+        "stop" : 1611788125125,
+        "duration" : 5840
+      }
+    }, {
+      "uid" : "f1cf6bc7b6b3fcc5",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"~SCARBOROUGH #7001\" because element wasn't found",
+      "time" : {
+        "start" : 1611788029539,
+        "stop" : 1611788034606,
+        "duration" : 5067
+      }
+    }, {
+      "uid" : "21857be1d4582ff3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611784558368,
+        "stop" : 1611784564209,
+        "duration" : 5841
+      }
+    }, {
+      "uid" : "9dc34f71a15592a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611779108565,
+        "stop" : 1611779114669,
+        "duration" : 6104
+      }
+    }, {
+      "uid" : "a658b183795a6a5d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611700331583,
+        "stop" : 1611700338031,
+        "duration" : 6448
+      }
+    }, {
+      "uid" : "ce23f31969e658d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611698902075,
+        "stop" : 1611698907910,
+        "duration" : 5835
+      }
+    }, {
+      "uid" : "cc66281d1085f40b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611698730253,
+        "stop" : 1611698736599,
+        "duration" : 6346
+      }
+    }, {
+      "uid" : "502c84b4b2f5ea42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611698631448,
+        "stop" : 1611698637235,
+        "duration" : 5787
+      }
+    }, {
+      "uid" : "baa408c2fbf70016",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"~SCARBOROUGH #7001\" because element wasn't found",
+      "time" : {
+        "start" : 1611698537353,
+        "stop" : 1611698542391,
+        "duration" : 5038
+      }
+    }, {
+      "uid" : "ca36033a62c69330",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611698456070,
+        "stop" : 1611698462657,
+        "duration" : 6587
+      }
+    }, {
+      "uid" : "b8137afc85d0eedc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611698336432,
+        "stop" : 1611698342296,
+        "duration" : 5864
+      }
+    }, {
+      "uid" : "2a3e61d70c817e31",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611698053990,
+        "stop" : 1611698060529,
+        "duration" : 6539
+      }
+    }, {
+      "uid" : "53a066b6bf04a0e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611697803176,
+        "stop" : 1611697808986,
+        "duration" : 5810
+      }
+    }, {
+      "uid" : "c7d6e9d7a30657c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611697530681,
+        "stop" : 1611697537276,
+        "duration" : 6595
+      }
+    }, {
+      "uid" : "9d605fed0a38de67",
+      "status" : "broken",
+      "statusDetails" : "The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource",
+      "time" : {
+        "start" : 1611697429269,
+        "stop" : 1611697435118,
+        "duration" : 5849
+      }
+    }, {
+      "uid" : "81a4a9e2d8afed40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611695316283,
+        "stop" : 1611695322054,
+        "duration" : 5771
+      }
+    }, {
+      "uid" : "125a8144985521d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611691842739,
+        "stop" : 1611691849191,
+        "duration" : 6452
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9b5eb6b958426763.json",
+  "parameterValues" : [ "emulator-5554 11-11" ]
+}

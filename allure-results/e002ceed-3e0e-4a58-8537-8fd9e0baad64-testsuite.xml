@@ -1,0 +1,25 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1611808046336' stop='1611808067660'>
+    <name>Pre-requisites for the script</name>
+    <title>Pre-requisites for the script</title>
+    <test-cases>
+        <test-case start='1611808046336' status='passed' stop='1611808067659'>
+            <name>Given the user enter the SKU and searches for the result</name>
+            <title>Given the user enter the SKU and searches for the result</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='emulator-5554 11-11'/>
+                <parameter kind='argument' name='device' value='emulator-5554 11-11'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,297 @@
+{
+  "uid" : "a8b62f03bdb681d8",
+  "name" : "And I type in the pincode and click on enter",
+  "fullName" : "Validate if the homepage gets displayed.And I type in the pincode and click on enter",
+  "historyId" : "3b441201c7d7a85ff9863fb5c5daa885",
+  "time" : {
+    "start" : 1611930923632,
+    "stop" : 1611930932509,
+    "duration" : 8877
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I type in the pincode and click on enter"
+  }, {
+    "name" : "package",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554 11-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f85ca35441513668",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611930822284,
+        "stop" : 1611930831325,
+        "duration" : 9041
+      }
+    }, {
+      "uid" : "9d80ebad0e00ed67",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611802649835,
+        "stop" : 1611802659525,
+        "duration" : 9690
+      }
+    }, {
+      "uid" : "f6460ce3c7eb6b34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611802149465,
+        "stop" : 1611802157433,
+        "duration" : 7968
+      }
+    }, {
+      "uid" : "95cace09fc845f89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611802033636,
+        "stop" : 1611802042415,
+        "duration" : 8779
+      }
+    }, {
+      "uid" : "8dac72985c999153",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.widget.RelativeLayout/android.widget.EditText\" because element wasn't found",
+      "time" : {
+        "start" : 1611797786269,
+        "stop" : 1611797791485,
+        "duration" : 5216
+      }
+    }, {
+      "uid" : "5cb149ac341f3c70",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.widget.RelativeLayout/android.widget.EditText\" because element wasn't found",
+      "time" : {
+        "start" : 1611797603186,
+        "stop" : 1611797608665,
+        "duration" : 5479
+      }
+    }, {
+      "uid" : "2b8e1a93de716264",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.widget.RelativeLayout/android.widget.EditText\" because element wasn't found",
+      "time" : {
+        "start" : 1611797529131,
+        "stop" : 1611797534270,
+        "duration" : 5139
+      }
+    }, {
+      "uid" : "33c2b35c007c54be",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.widget.RelativeLayout/android.widget.EditText\" because element wasn't found",
+      "time" : {
+        "start" : 1611797432848,
+        "stop" : 1611797437952,
+        "duration" : 5104
+      }
+    }, {
+      "uid" : "85553e1e22bfe9f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611797300086,
+        "stop" : 1611797308843,
+        "duration" : 8757
+      }
+    }, {
+      "uid" : "7836684b18e5b564",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.widget.RelativeLayout/android.widget.EditText\" because element wasn't found",
+      "time" : {
+        "start" : 1611793835177,
+        "stop" : 1611793840294,
+        "duration" : 5117
+      }
+    }, {
+      "uid" : "53df7a67a9680985",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611793766670,
+        "stop" : 1611793775721,
+        "duration" : 9051
+      }
+    }, {
+      "uid" : "754eaa2f666849cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611789869746,
+        "stop" : 1611789878128,
+        "duration" : 8382
+      }
+    }, {
+      "uid" : "b33aa1dd2f0fb034",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611788110184,
+        "stop" : 1611788119285,
+        "duration" : 9101
+      }
+    }, {
+      "uid" : "4d95decd02ccfa47",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.widget.RelativeLayout/android.widget.EditText\" because element wasn't found",
+      "time" : {
+        "start" : 1611788024386,
+        "stop" : 1611788029539,
+        "duration" : 5153
+      }
+    }, {
+      "uid" : "737dc8a2cdd9008f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611784548281,
+        "stop" : 1611784558368,
+        "duration" : 10087
+      }
+    }, {
+      "uid" : "cc0cb9e70680b761",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611779099170,
+        "stop" : 1611779108565,
+        "duration" : 9395
+      }
+    }, {
+      "uid" : "137efb1bdfe867d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611700323225,
+        "stop" : 1611700331582,
+        "duration" : 8357
+      }
+    }, {
+      "uid" : "b531386651a30332",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611698893366,
+        "stop" : 1611698902074,
+        "duration" : 8708
+      }
+    }, {
+      "uid" : "3690795b83d256fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611698721189,
+        "stop" : 1611698730253,
+        "duration" : 9064
+      }
+    }, {
+      "uid" : "39fd81d78668aeb6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611698623283,
+        "stop" : 1611698631448,
+        "duration" : 8165
+      }
+    }, {
+      "uid" : "56cfda35c7ef3dcc",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.widget.RelativeLayout/android.widget.EditText\" because element wasn't found",
+      "time" : {
+        "start" : 1611698532282,
+        "stop" : 1611698537352,
+        "duration" : 5070
+      }
+    }, {
+      "uid" : "9cc14fbfe0be7c6c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611698447202,
+        "stop" : 1611698456070,
+        "duration" : 8868
+      }
+    }, {
+      "uid" : "b2f1f07d7f17b51a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611698327843,
+        "stop" : 1611698336432,
+        "duration" : 8589
+      }
+    }, {
+      "uid" : "684f095b70a3bb39",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611698045098,
+        "stop" : 1611698053990,
+        "duration" : 8892
+      }
+    }, {
+      "uid" : "74b5159b4499ae9f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611697794301,
+        "stop" : 1611697803176,
+        "duration" : 8875
+      }
+    }, {
+      "uid" : "8450b12a79e783f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611697522503,
+        "stop" : 1611697530681,
+        "duration" : 8178
+      }
+    }, {
+      "uid" : "7b0ec91d853174ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611697420646,
+        "stop" : 1611697429269,
+        "duration" : 8623
+      }
+    }, {
+      "uid" : "5dd5f3347adb4105",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611695306205,
+        "stop" : 1611695316283,
+        "duration" : 10078
+      }
+    }, {
+      "uid" : "be20467c91bb8584",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611691834494,
+        "stop" : 1611691842739,
+        "duration" : 8245
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a8b62f03bdb681d8.json",
+  "parameterValues" : [ "emulator-5554 11-11" ]
+}

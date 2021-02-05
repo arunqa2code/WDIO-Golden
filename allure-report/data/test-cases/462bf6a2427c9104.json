@@ -1,0 +1,56 @@
+{
+  "uid" : "462bf6a2427c9104",
+  "name" : "It should click the button successfully",
+  "fullName" : "Attempt to click the button in Android.It should click the button successfully",
+  "historyId" : "95d1521f6b4a7e3678a2ffe9f1dda7b7",
+  "time" : {
+    "start" : 1611672326964,
+    "stop" : 1611672342949,
+    "duration" : 15985
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Attempt to click the button in Android"
+  }, {
+    "name" : "testClass",
+    "value" : "Attempt to click the button in Android"
+  }, {
+    "name" : "testMethod",
+    "value" : "It should click the button successfully"
+  }, {
+    "name" : "package",
+    "value" : "Attempt to click the button in Android"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554 11-11"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "462bf6a2427c9104.json",
+  "parameterValues" : [ "emulator-5554 11-11" ]
+}

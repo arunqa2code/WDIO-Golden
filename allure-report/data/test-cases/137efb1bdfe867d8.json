@@ -1,0 +1,56 @@
+{
+  "uid" : "137efb1bdfe867d8",
+  "name" : "And I type in the pincode and click on enter",
+  "fullName" : "Validate if the homepage gets displayed.And I type in the pincode and click on enter",
+  "historyId" : "3b441201c7d7a85ff9863fb5c5daa885",
+  "time" : {
+    "start" : 1611700323225,
+    "stop" : 1611700331582,
+    "duration" : 8357
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I type in the pincode and click on enter"
+  }, {
+    "name" : "package",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554 11-11"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "137efb1bdfe867d8.json",
+  "parameterValues" : [ "emulator-5554 11-11" ]
+}

@@ -1,0 +1,77 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1611784543281' stop='1611784564323'>
+    <name>Validate if the homepage gets displayed</name>
+    <title>Validate if the homepage gets displayed</title>
+    <test-cases>
+        <test-case start='1611784543282' status='passed' stop='1611784543991'>
+            <name>Given the HD app is displayed and user clicks on Prod button</name>
+            <title>Given the HD app is displayed and user clicks on Prod button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='emulator-5554 11-11'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1611784543992' status='passed' stop='1611784548280'>
+            <name>And I allow the HD app to access the device location</name>
+            <title>And I allow the HD app to access the device location</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='emulator-5554 11-11'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1611784548281' status='passed' stop='1611784558368'>
+            <name>And I type in the pincode and click on enter</name>
+            <title>And I type in the pincode and click on enter</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='emulator-5554 11-11'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1611784558368' status='passed' stop='1611784564209'>
+            <name>When I click on the store to localize</name>
+            <title>When I click on the store to localize</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='emulator-5554 11-11'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1611784564209' status='passed' stop='1611784564322'>
+            <name>Then I validate that the homepage is displayed</name>
+            <title>Then I validate that the homepage is displayed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='emulator-5554 11-11'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

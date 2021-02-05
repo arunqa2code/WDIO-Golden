@@ -1,0 +1,462 @@
+{
+  "uid" : "c7b411a0cb319f42",
+  "name" : "Given the user enter the SKU and searches for the result",
+  "fullName" : "Pre-requisites for the script.Given the user enter the SKU and searches for the result",
+  "historyId" : "5c33307d08060e6d609fc7d62bcb5656",
+  "time" : {
+    "start" : 1611930958887,
+    "stop" : 1611930983666,
+    "duration" : 24779
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Pre-requisites for the script"
+  }, {
+    "name" : "testClass",
+    "value" : "Pre-requisites for the script"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given the user enter the SKU and searches for the result"
+  }, {
+    "name" : "package",
+    "value" : "Pre-requisites for the script"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554 11-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "540fad5436fb680",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611930624588,
+        "stop" : 1611930648819,
+        "duration" : 24231
+      }
+    }, {
+      "uid" : "43df65eb787ee4db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611930573039,
+        "stop" : 1611930596846,
+        "duration" : 23807
+      }
+    }, {
+      "uid" : "578cb3614f2fdba4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611889787277,
+        "stop" : 1611889810628,
+        "duration" : 23351
+      }
+    }, {
+      "uid" : "de9a863b8ab4e680",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611869509902,
+        "stop" : 1611869533430,
+        "duration" : 23528
+      }
+    }, {
+      "uid" : "ba9392e674d9178f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611865972685,
+        "stop" : 1611865994739,
+        "duration" : 22054
+      }
+    }, {
+      "uid" : "9e1e60a55f2f598a",
+      "status" : "broken",
+      "statusDetails" : "driver.execute_script is not a function",
+      "time" : {
+        "start" : 1611864862730,
+        "stop" : 1611864885679,
+        "duration" : 22949
+      }
+    }, {
+      "uid" : "4b1957fecabf99a7",
+      "status" : "failed",
+      "statusDetails" : "Malformed type for \"script\" parameter of command executeScript\n                Expected: string\n                Actual: object\n                \n                For more info see https://w3c.github.io/webdriver/#dfn-execute-script\n                ",
+      "time" : {
+        "start" : 1611864318938,
+        "stop" : 1611864341977,
+        "duration" : 23039
+      }
+    }, {
+      "uid" : "f503bb4761faca2a",
+      "status" : "broken",
+      "statusDetails" : "$driver is not defined",
+      "time" : {
+        "start" : 1611864068284,
+        "stop" : 1611864091803,
+        "duration" : 23519
+      }
+    }, {
+      "uid" : "aa84487ff58748ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611860617423,
+        "stop" : 1611860641243,
+        "duration" : 23820
+      }
+    }, {
+      "uid" : "4b706a61f8d8b91e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611851592244,
+        "stop" : 1611851615961,
+        "duration" : 23717
+      }
+    }, {
+      "uid" : "c14f36045258b84f",
+      "status" : "broken",
+      "statusDetails" : "driver.waitForElementById is not a function",
+      "time" : {
+        "start" : 1611851516135,
+        "stop" : 1611851539228,
+        "duration" : 23093
+      }
+    }, {
+      "uid" : "9d260800e79a7f35",
+      "status" : "broken",
+      "statusDetails" : "driver.waitForElementById is not a function",
+      "time" : {
+        "start" : 1611851328410,
+        "stop" : 1611851349622,
+        "duration" : 21212
+      }
+    }, {
+      "uid" : "650f972fd1e0d825",
+      "status" : "broken",
+      "statusDetails" : "driver.waitForElementById is not a function",
+      "time" : {
+        "start" : 1611851246130,
+        "stop" : 1611851268056,
+        "duration" : 21926
+      }
+    }, {
+      "uid" : "2b7baac499fdb1a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611850232677,
+        "stop" : 1611850256484,
+        "duration" : 23807
+      }
+    }, {
+      "uid" : "26f33f10075a9b46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611850164033,
+        "stop" : 1611850187858,
+        "duration" : 23825
+      }
+    }, {
+      "uid" : "63ca363f7631e6bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611849544359,
+        "stop" : 1611849568480,
+        "duration" : 24121
+      }
+    }, {
+      "uid" : "ef7bfe3eecb8a9d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611848779243,
+        "stop" : 1611848802662,
+        "duration" : 23419
+      }
+    }, {
+      "uid" : "6d23fc2a690369c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611844854274,
+        "stop" : 1611844878013,
+        "duration" : 23739
+      }
+    }, {
+      "uid" : "387afe37c4a47793",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.ImageView[1]\" because element wasn't found",
+      "time" : {
+        "start" : 1611844702228,
+        "stop" : 1611844712543,
+        "duration" : 10315
+      }
+    }, {
+      "uid" : "c4c240fbbb75204",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611844306211,
+        "stop" : 1611844330127,
+        "duration" : 23916
+      }
+    }, {
+      "uid" : "ea6ba32d497128dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611844189715,
+        "stop" : 1611844214680,
+        "duration" : 24965
+      }
+    }, {
+      "uid" : "1bae03afa9b64543",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611844122567,
+        "stop" : 1611844145356,
+        "duration" : 22789
+      }
+    }, {
+      "uid" : "2424bcf786e6dbee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611843934251,
+        "stop" : 1611843957342,
+        "duration" : 23091
+      }
+    }, {
+      "uid" : "6cc053cb8b3e48b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611843532853,
+        "stop" : 1611843555047,
+        "duration" : 22194
+      }
+    }, {
+      "uid" : "523bd73d00bcc900",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611809308971,
+        "stop" : 1611809329638,
+        "duration" : 20667
+      }
+    }, {
+      "uid" : "b4977d765701851b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611809231261,
+        "stop" : 1611809251608,
+        "duration" : 20347
+      }
+    }, {
+      "uid" : "cea1248e8341e6b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611808046336,
+        "stop" : 1611808067659,
+        "duration" : 21323
+      }
+    }, {
+      "uid" : "4ff30a1f76cdaa60",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611807985560,
+        "stop" : 1611808003473,
+        "duration" : 17913
+      }
+    }, {
+      "uid" : "dedb643677ce972d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611807883931,
+        "stop" : 1611807902540,
+        "duration" : 18609
+      }
+    }, {
+      "uid" : "f26d130056d8086a",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.ImageView[1]\" because element wasn't found",
+      "time" : {
+        "start" : 1611807715578,
+        "stop" : 1611807738361,
+        "duration" : 22783
+      }
+    }, {
+      "uid" : "a2c3472f57274529",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611807658337,
+        "stop" : 1611807676771,
+        "duration" : 18434
+      }
+    }, {
+      "uid" : "eb0f71d4c2477749",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.EditText\" because element wasn't found",
+      "time" : {
+        "start" : 1611806658099,
+        "stop" : 1611806681388,
+        "duration" : 23289
+      }
+    }, {
+      "uid" : "fc2db10c2a90e2a5",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.EditText\" because element wasn't found",
+      "time" : {
+        "start" : 1611802866544,
+        "stop" : 1611802890089,
+        "duration" : 23545
+      }
+    }, {
+      "uid" : "c92baf327082aa04",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.EditText\" because element wasn't found",
+      "time" : {
+        "start" : 1611802761333,
+        "stop" : 1611802783582,
+        "duration" : 22249
+      }
+    }, {
+      "uid" : "50dbc79d1ab2ae3c",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.ImageView[1]\" because element wasn't found",
+      "time" : {
+        "start" : 1611785336396,
+        "stop" : 1611785360153,
+        "duration" : 23757
+      }
+    }, {
+      "uid" : "89cac0b22f62f21e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611785137346,
+        "stop" : 1611785159858,
+        "duration" : 22512
+      }
+    }, {
+      "uid" : "a1ce1218287e755d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611782965514,
+        "stop" : 1611782982829,
+        "duration" : 17315
+      }
+    }, {
+      "uid" : "1219b22aed45e5bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611782874727,
+        "stop" : 1611782898018,
+        "duration" : 23291
+      }
+    }, {
+      "uid" : "489be1196574ecfe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611782505046,
+        "stop" : 1611782531239,
+        "duration" : 26193
+      }
+    }, {
+      "uid" : "30837fac8b405a46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611782303025,
+        "stop" : 1611782336572,
+        "duration" : 33547
+      }
+    }, {
+      "uid" : "205666dc60909109",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611782217903,
+        "stop" : 1611782244866,
+        "duration" : 26963
+      }
+    }, {
+      "uid" : "d0aff14e72175ca7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611782115304,
+        "stop" : 1611782144127,
+        "duration" : 28823
+      }
+    }, {
+      "uid" : "619500f59c46cf03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611781271651,
+        "stop" : 1611781304777,
+        "duration" : 33126
+      }
+    }, {
+      "uid" : "33a7bc7f5f84da13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611780746932,
+        "stop" : 1611780774969,
+        "duration" : 28037
+      }
+    }, {
+      "uid" : "9fd1fb587831deed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611780641421,
+        "stop" : 1611780675176,
+        "duration" : 33755
+      }
+    }, {
+      "uid" : "39f9ff5060ec9e38",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611780363520,
+        "stop" : 1611780389767,
+        "duration" : 26247
+      }
+    }, {
+      "uid" : "83a83d79c82a49c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611779654002,
+        "stop" : 1611779681313,
+        "duration" : 27311
+      }
+    }, {
+      "uid" : "74b3c12a21ccf0d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611779253492,
+        "stop" : 1611779284922,
+        "duration" : 31430
+      }
+    }, {
+      "uid" : "da92b151b78ccc9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611700795618,
+        "stop" : 1611700820649,
+        "duration" : 25031
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c7b411a0cb319f42.json",
+  "parameterValues" : [ "emulator-5554 11-11" ]
+}

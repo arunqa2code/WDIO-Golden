@@ -1,0 +1,127 @@
+{
+  "uid" : "8fcad47e12d2049b",
+  "name" : "And I validate that the homepage is displayed",
+  "fullName" : "Validate if the homepage gets displayed.And I validate that the homepage is displayed",
+  "historyId" : "f525376cbb29b04306c72ca578a4ab63",
+  "time" : {
+    "start" : 1611801917278,
+    "stop" : 1611801923055,
+    "duration" : 5777
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.TextView\" because element wasn't found",
+  "statusTrace" : "Error: Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.TextView\" because element wasn't found\n                    at Object.implicitWait [as default] (C:\\Users\\AXS3NOV\\wdio-golden\\node_modules\\webdriverio\\build\\utils\\implicitWait.js:26:19)\n                    at Element.runCommandWithHooks (C:\\Users\\AXS3NOV\\wdio-golden\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:65:24)\n                    at Element.wrapCommandFn (C:\\Users\\AXS3NOV\\wdio-golden\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:44:44)\n                    at Element.click (C:\\Users\\AXS3NOV\\wdio-golden\\node_modules\\webdriverio\\build\\middlewares.js:34:12)\n                    at Context.<anonymous> (C:\\Users\\AXS3NOV\\wdio-golden\\api\\/validateResetHomescreen.js:18:19)\n                    at Context.executeSync (C:\\Users\\AXS3NOV\\wdio-golden\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at fibers_1.default (C:\\Users\\AXS3NOV\\wdio-golden\\node_modules\\@wdio\\sync\\build\\index.js:46:68)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I validate that the homepage is displayed"
+  }, {
+    "name" : "package",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554 11-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7975511517384eb0",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.TextView\" because element wasn't found",
+      "time" : {
+        "start" : 1611799491861,
+        "stop" : 1611799496942,
+        "duration" : 5081
+      }
+    }, {
+      "uid" : "79701b8de2eec3fa",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.TextView\" because element wasn't found",
+      "time" : {
+        "start" : 1611799438030,
+        "stop" : 1611799443095,
+        "duration" : 5065
+      }
+    }, {
+      "uid" : "9f267a2ef0a2a835",
+      "status" : "failed",
+      "statusDetails" : "Expect $(`/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.TextView`) to be displayed\n                \n                Expected: \"displayed\"\n                Received: \"not displayed\"",
+      "time" : {
+        "start" : 1611799030343,
+        "stop" : 1611799036292,
+        "duration" : 5949
+      }
+    }, {
+      "uid" : "21f43ba9129b7482",
+      "status" : "failed",
+      "statusDetails" : "Expect $(`/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.TextView`) to be displayed\n                \n                Expected: \"displayed\"\n                Received: \"not displayed\"",
+      "time" : {
+        "start" : 1611798895533,
+        "stop" : 1611798901115,
+        "duration" : 5582
+      }
+    }, {
+      "uid" : "2c1465ed8cf9fb82",
+      "status" : "failed",
+      "statusDetails" : "Expect $(`/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.TextView`) to be displayed\n                \n                Expected: \"displayed\"\n                Received: \"not displayed\"",
+      "time" : {
+        "start" : 1611798804884,
+        "stop" : 1611798809976,
+        "duration" : 5092
+      }
+    }, {
+      "uid" : "e7799427fe17470e",
+      "status" : "failed",
+      "statusDetails" : "Expect $(`/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.TextView`) to be displayed\n                \n                Expected: \"displayed\"\n                Received: \"not displayed\"",
+      "time" : {
+        "start" : 1611798505478,
+        "stop" : 1611798510908,
+        "duration" : 5430
+      }
+    }, {
+      "uid" : "da107723f9aa95b1",
+      "status" : "failed",
+      "statusDetails" : "Expect $(`/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.TextView`) to be displayed\n                \n                Expected: \"displayed\"\n                Received: \"not displayed\"",
+      "time" : {
+        "start" : 1611798387364,
+        "stop" : 1611798392622,
+        "duration" : 5258
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "8fcad47e12d2049b.json",
+  "parameterValues" : [ "emulator-5554 11-11" ]
+}

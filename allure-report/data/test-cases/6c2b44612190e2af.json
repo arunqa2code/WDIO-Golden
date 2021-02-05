@@ -1,0 +1,323 @@
+{
+  "uid" : "6c2b44612190e2af",
+  "name" : "And I allow the HD app to access the device location",
+  "fullName" : "Validate if the homepage gets displayed.And I allow the HD app to access the device location",
+  "historyId" : "181b1dbce940f16866aa00d794abab97",
+  "time" : {
+    "start" : 1611930919089,
+    "stop" : 1611930923631,
+    "duration" : 4542
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I allow the HD app to access the device location"
+  }, {
+    "name" : "package",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554 11-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "32431cb81993deb5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611930818866,
+        "stop" : 1611930822284,
+        "duration" : 3418
+      }
+    }, {
+      "uid" : "bab30e5101b00428",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611802644497,
+        "stop" : 1611802649834,
+        "duration" : 5337
+      }
+    }, {
+      "uid" : "dd8980c8ded45cab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611802145892,
+        "stop" : 1611802149464,
+        "duration" : 3572
+      }
+    }, {
+      "uid" : "4a034aa819f3a36a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611802029579,
+        "stop" : 1611802033636,
+        "duration" : 4057
+      }
+    }, {
+      "uid" : "a849564db7200cc",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.Button[2]\" because element wasn't found",
+      "time" : {
+        "start" : 1611798890146,
+        "stop" : 1611798895532,
+        "duration" : 5386
+      }
+    }, {
+      "uid" : "3101159c9281a9bd",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.Button[2]\" because element wasn't found",
+      "time" : {
+        "start" : 1611798799563,
+        "stop" : 1611798804883,
+        "duration" : 5320
+      }
+    }, {
+      "uid" : "100d73b8d03cdce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611798504272,
+        "stop" : 1611798505477,
+        "duration" : 1205
+      }
+    }, {
+      "uid" : "99038bf8048fc292",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.Button[2]\" because element wasn't found",
+      "time" : {
+        "start" : 1611797780904,
+        "stop" : 1611797786268,
+        "duration" : 5364
+      }
+    }, {
+      "uid" : "52d0cf89aefee618",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.Button[2]\" because element wasn't found",
+      "time" : {
+        "start" : 1611797597796,
+        "stop" : 1611797603185,
+        "duration" : 5389
+      }
+    }, {
+      "uid" : "35e8ee019074f333",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.Button[2]\" because element wasn't found",
+      "time" : {
+        "start" : 1611797523741,
+        "stop" : 1611797529131,
+        "duration" : 5390
+      }
+    }, {
+      "uid" : "ea976743eb74e00a",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.Button[1]\" because element wasn't found",
+      "time" : {
+        "start" : 1611797426578,
+        "stop" : 1611797432842,
+        "duration" : 6264
+      }
+    }, {
+      "uid" : "d62d211c0ea22d6d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611797296419,
+        "stop" : 1611797300086,
+        "duration" : 3667
+      }
+    }, {
+      "uid" : "2f089aff49db38af",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.Button[1]\" because element wasn't found",
+      "time" : {
+        "start" : 1611793828946,
+        "stop" : 1611793835177,
+        "duration" : 6231
+      }
+    }, {
+      "uid" : "6532fdd13069c26c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611793763040,
+        "stop" : 1611793766669,
+        "duration" : 3629
+      }
+    }, {
+      "uid" : "4a9da9dd70a59ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611789866413,
+        "stop" : 1611789869745,
+        "duration" : 3332
+      }
+    }, {
+      "uid" : "4c0a52180f79c69d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611788106491,
+        "stop" : 1611788110183,
+        "duration" : 3692
+      }
+    }, {
+      "uid" : "736d1887ab6a05d5",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.Button[2]\" because element wasn't found",
+      "time" : {
+        "start" : 1611788019008,
+        "stop" : 1611788024386,
+        "duration" : 5378
+      }
+    }, {
+      "uid" : "fc6c76c21542a23f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611784543992,
+        "stop" : 1611784548280,
+        "duration" : 4288
+      }
+    }, {
+      "uid" : "62e1e8cc5e5d5a98",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611779095338,
+        "stop" : 1611779099170,
+        "duration" : 3832
+      }
+    }, {
+      "uid" : "5a7479912ae7924a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611700319984,
+        "stop" : 1611700323225,
+        "duration" : 3241
+      }
+    }, {
+      "uid" : "c71d9122cf5c2e06",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611698890233,
+        "stop" : 1611698893366,
+        "duration" : 3133
+      }
+    }, {
+      "uid" : "6c628d286b5b2fe4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611698717552,
+        "stop" : 1611698721189,
+        "duration" : 3637
+      }
+    }, {
+      "uid" : "1d46056748a7791f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611698620177,
+        "stop" : 1611698623283,
+        "duration" : 3106
+      }
+    }, {
+      "uid" : "b33df40ef7131b31",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.Button[2]\" because element wasn't found",
+      "time" : {
+        "start" : 1611698527220,
+        "stop" : 1611698532281,
+        "duration" : 5061
+      }
+    }, {
+      "uid" : "8a52a8e7b9fdc98c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611698443988,
+        "stop" : 1611698447201,
+        "duration" : 3213
+      }
+    }, {
+      "uid" : "ae0ecf27ce8e2ffe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611698324266,
+        "stop" : 1611698327842,
+        "duration" : 3576
+      }
+    }, {
+      "uid" : "6ebac08190607d48",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611698041424,
+        "stop" : 1611698045097,
+        "duration" : 3673
+      }
+    }, {
+      "uid" : "1fe00756d6a46adf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611697790771,
+        "stop" : 1611697794301,
+        "duration" : 3530
+      }
+    }, {
+      "uid" : "4b4531e53c2c9c79",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611697519169,
+        "stop" : 1611697522503,
+        "duration" : 3334
+      }
+    }, {
+      "uid" : "1c860ac276c7d6a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611697417253,
+        "stop" : 1611697420645,
+        "duration" : 3392
+      }
+    }, {
+      "uid" : "790ae6457c35f5a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611695299225,
+        "stop" : 1611695306204,
+        "duration" : 6979
+      }
+    }, {
+      "uid" : "4028e5bcf7718ecb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611691831165,
+        "stop" : 1611691834493,
+        "duration" : 3328
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6c2b44612190e2af.json",
+  "parameterValues" : [ "emulator-5554 11-11" ]
+}

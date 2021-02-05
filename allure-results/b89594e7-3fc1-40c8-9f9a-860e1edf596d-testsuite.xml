@@ -1,0 +1,36 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1611844702228' stop='1611844712546'>
+    <name>Pre-requisites for the script</name>
+    <title>Pre-requisites for the script</title>
+    <test-cases>
+        <test-case start='1611844702228' status='broken' stop='1611844712543'>
+            <name>Given the user enter the SKU and searches for the result</name>
+            <title>Given the user enter the SKU and searches for the result</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='emulator-5554 11-11'/>
+                <parameter kind='argument' name='device' value='emulator-5554 11-11'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Can't call click on element with selector "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.ImageView[1]" because element wasn't found</message>
+                <stack-trace>Error: Can't call click on element with selector "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.ImageView[1]" because element wasn't found
+                    at Object.implicitWait [as default] (C:\Users\AXS3NOV\wdio-golden\node_modules\webdriverio\build\utils\implicitWait.js:26:19)
+                    at Element.runCommandWithHooks (C:\Users\AXS3NOV\wdio-golden\node_modules\@wdio\sync\build\wrapCommand.js:65:24)
+                    at Element.wrapCommandFn (C:\Users\AXS3NOV\wdio-golden\node_modules\@wdio\sync\build\wrapCommand.js:44:44)
+                    at Element.click (C:\Users\AXS3NOV\wdio-golden\node_modules\webdriverio\build\middlewares.js:34:12)
+                    at Context.&lt;anonymous> (C:\Users\AXS3NOV\wdio-golden\api\/validatepipBySkuSearch.js:31:25)
+                    at Context.executeSync (C:\Users\AXS3NOV\wdio-golden\node_modules\@wdio\sync\build\index.js:25:22)
+                    at fibers_1.default (C:\Users\AXS3NOV\wdio-golden\node_modules\@wdio\sync\build\index.js:46:68)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

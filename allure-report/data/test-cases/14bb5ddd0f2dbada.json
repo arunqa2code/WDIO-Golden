@@ -1,0 +1,58 @@
+{
+  "uid" : "14bb5ddd0f2dbada",
+  "name" : "Given the HD app is displayed and user clicks on Prod button",
+  "fullName" : "Pre-requisites for the script.Given the HD app is displayed and user clicks on Prod button",
+  "historyId" : "b21f187c9739edd0abdd8ec8c174b2d",
+  "time" : {
+    "start" : 1611700526378,
+    "stop" : 1611700546569,
+    "duration" : 20191
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Pre-requisites for the script"
+  }, {
+    "name" : "testClass",
+    "value" : "Pre-requisites for the script"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given the HD app is displayed and user clicks on Prod button"
+  }, {
+    "name" : "package",
+    "value" : "Pre-requisites for the script"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554 11-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "14bb5ddd0f2dbada.json",
+  "parameterValues" : [ "emulator-5554 11-11" ]
+}

@@ -1,0 +1,58 @@
+{
+  "uid" : "18fcd53efc47b491",
+  "name" : "Then I validate that the homepage is displayed",
+  "fullName" : "Pre-requisites for the script.Then I validate that the homepage is displayed",
+  "historyId" : "12807bd6be92f22d9e5b90b85dc71a36",
+  "time" : {
+    "start" : 1611700546571,
+    "stop" : 1611700546685,
+    "duration" : 114
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Pre-requisites for the script"
+  }, {
+    "name" : "testClass",
+    "value" : "Pre-requisites for the script"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I validate that the homepage is displayed"
+  }, {
+    "name" : "package",
+    "value" : "Pre-requisites for the script"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554 11-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "18fcd53efc47b491.json",
+  "parameterValues" : [ "emulator-5554 11-11" ]
+}

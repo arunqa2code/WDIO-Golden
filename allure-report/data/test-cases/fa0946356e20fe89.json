@@ -1,0 +1,58 @@
+{
+  "uid" : "fa0946356e20fe89",
+  "name" : "And I enter a SKU in search textbox and click on Search",
+  "fullName" : "Validate if the homepage gets displayed.And I enter a SKU in search textbox and click on Search",
+  "historyId" : "5835009a1cda1c639e2b1e422bd8410",
+  "time" : {
+    "start" : 1611798392623,
+    "stop" : 1611798392747,
+    "duration" : 124
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Invalid CSS selector ' /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.ImageView[1]'. Reason: 'Error: Rule expected but \"/\" found.'",
+  "statusTrace" : "invalid selector: Invalid CSS selector ' /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.ImageView[1]'. Reason: 'Error: Rule expected but \"/\" found.'\n                    at Object.getErrorFromResponseBody (C:\\Users\\AXS3NOV\\wdio-golden\\node_modules\\webdriver\\build\\utils.js:94:12)\n                    at WebDriverRequest._request (C:\\Users\\AXS3NOV\\wdio-golden\\node_modules\\webdriver\\build\\request.js:134:31)\n                    at Browser.runCommandWithHooks (C:\\Users\\AXS3NOV\\wdio-golden\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:65:24)\n                    at Browser.wrapCommandFn (C:\\Users\\AXS3NOV\\wdio-golden\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:44:44)\n                    at $ (C:\\Users\\AXS3NOV\\wdio-golden\\node_modules\\@wdio\\runner\\build\\index.js:114:42)\n                    at Context.<anonymous> (C:\\Users\\AXS3NOV\\wdio-golden\\api\\/validateResetHomescreen.js:46:9)\n                    at Context.executeSync (C:\\Users\\AXS3NOV\\wdio-golden\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at fibers_1.default (C:\\Users\\AXS3NOV\\wdio-golden\\node_modules\\@wdio\\sync\\build\\index.js:46:68)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I enter a SKU in search textbox and click on Search"
+  }, {
+    "name" : "package",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554 11-11"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fa0946356e20fe89.json",
+  "parameterValues" : [ "emulator-5554 11-11" ]
+}

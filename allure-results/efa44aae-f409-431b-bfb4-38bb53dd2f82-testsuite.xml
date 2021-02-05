@@ -1,0 +1,46 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1611799436542' stop='1611799443096'>
+    <name>Validate if the homepage gets displayed</name>
+    <title>Validate if the homepage gets displayed</title>
+    <test-cases>
+        <test-case start='1611799436542' status='passed' stop='1611799438030'>
+            <name>Given the HD app is displayed and user clicks on Prod button</name>
+            <title>Given the HD app is displayed and user clicks on Prod button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='emulator-5554 11-11'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1611799438030' status='broken' stop='1611799443095'>
+            <name>And I validate that the homepage is displayed</name>
+            <title>And I validate that the homepage is displayed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='emulator-5554 11-11'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Can't call click on element with selector "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.TextView" because element wasn't found</message>
+                <stack-trace>Error: Can't call click on element with selector "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.TextView" because element wasn't found
+                    at Object.implicitWait [as default] (C:\Users\AXS3NOV\wdio-golden\node_modules\webdriverio\build\utils\implicitWait.js:26:19)
+                    at Element.runCommandWithHooks (C:\Users\AXS3NOV\wdio-golden\node_modules\@wdio\sync\build\wrapCommand.js:65:24)
+                    at Element.wrapCommandFn (C:\Users\AXS3NOV\wdio-golden\node_modules\@wdio\sync\build\wrapCommand.js:44:44)
+                    at Element.click (C:\Users\AXS3NOV\wdio-golden\node_modules\webdriverio\build\middlewares.js:34:12)
+                    at Context.&lt;anonymous> (C:\Users\AXS3NOV\wdio-golden\api\/validateResetHomescreen.js:18:19)
+                    at Context.executeSync (C:\Users\AXS3NOV\wdio-golden\node_modules\@wdio\sync\build\index.js:25:22)
+                    at fibers_1.default (C:\Users\AXS3NOV\wdio-golden\node_modules\@wdio\sync\build\index.js:46:68)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

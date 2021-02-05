@@ -1,0 +1,74 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1611798386827' stop='1611798392748'>
+    <name>Validate if the homepage gets displayed</name>
+    <title>Validate if the homepage gets displayed</title>
+    <test-cases>
+        <test-case start='1611798386827' status='passed' stop='1611798387363'>
+            <name>Given the HD app is displayed and user clicks on Prod button</name>
+            <title>Given the HD app is displayed and user clicks on Prod button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='emulator-5554 11-11'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1611798387364' status='failed' stop='1611798392622'>
+            <name>And I validate that the homepage is displayed</name>
+            <title>And I validate that the homepage is displayed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='emulator-5554 11-11'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Expect $(`/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.TextView`) to be displayed
+                
+                Expected: "displayed"
+                Received: "not displayed"</message>
+                <stack-trace>Error: Expect $(`/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.TextView`) to be displayed
+                
+                Expected: "displayed"
+                Received: "not displayed"
+                    at Context.&lt;anonymous> (C:\Users\AXS3NOV\wdio-golden\api\/validateResetHomescreen.js:41:28)
+                    at Context.executeSync (C:\Users\AXS3NOV\wdio-golden\node_modules\@wdio\sync\build\index.js:25:22)
+                    at fibers_1.default (C:\Users\AXS3NOV\wdio-golden\node_modules\@wdio\sync\build\index.js:46:68)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1611798392623' status='broken' stop='1611798392747'>
+            <name>And I enter a SKU in search textbox and click on Search</name>
+            <title>And I enter a SKU in search textbox and click on Search</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='emulator-5554 11-11'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Invalid CSS selector ' /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.ImageView[1]'. Reason: 'Error: Rule expected but "/" found.'</message>
+                <stack-trace>invalid selector: Invalid CSS selector ' /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.ImageView[1]'. Reason: 'Error: Rule expected but "/" found.'
+                    at Object.getErrorFromResponseBody (C:\Users\AXS3NOV\wdio-golden\node_modules\webdriver\build\utils.js:94:12)
+                    at WebDriverRequest._request (C:\Users\AXS3NOV\wdio-golden\node_modules\webdriver\build\request.js:134:31)
+                    at Browser.runCommandWithHooks (C:\Users\AXS3NOV\wdio-golden\node_modules\@wdio\sync\build\wrapCommand.js:65:24)
+                    at Browser.wrapCommandFn (C:\Users\AXS3NOV\wdio-golden\node_modules\@wdio\sync\build\wrapCommand.js:44:44)
+                    at $ (C:\Users\AXS3NOV\wdio-golden\node_modules\@wdio\runner\build\index.js:114:42)
+                    at Context.&lt;anonymous> (C:\Users\AXS3NOV\wdio-golden\api\/validateResetHomescreen.js:46:9)
+                    at Context.executeSync (C:\Users\AXS3NOV\wdio-golden\node_modules\@wdio\sync\build\index.js:25:22)
+                    at fibers_1.default (C:\Users\AXS3NOV\wdio-golden\node_modules\@wdio\sync\build\index.js:46:68)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

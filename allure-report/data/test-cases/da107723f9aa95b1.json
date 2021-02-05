@@ -1,0 +1,58 @@
+{
+  "uid" : "da107723f9aa95b1",
+  "name" : "And I validate that the homepage is displayed",
+  "fullName" : "Validate if the homepage gets displayed.And I validate that the homepage is displayed",
+  "historyId" : "f525376cbb29b04306c72ca578a4ab63",
+  "time" : {
+    "start" : 1611798387364,
+    "stop" : 1611798392622,
+    "duration" : 5258
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expect $(`/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.TextView`) to be displayed\n                \n                Expected: \"displayed\"\n                Received: \"not displayed\"",
+  "statusTrace" : "Error: Expect $(`/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.TextView`) to be displayed\n                \n                Expected: \"displayed\"\n                Received: \"not displayed\"\n                    at Context.<anonymous> (C:\\Users\\AXS3NOV\\wdio-golden\\api\\/validateResetHomescreen.js:41:28)\n                    at Context.executeSync (C:\\Users\\AXS3NOV\\wdio-golden\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at fibers_1.default (C:\\Users\\AXS3NOV\\wdio-golden\\node_modules\\@wdio\\sync\\build\\index.js:46:68)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I validate that the homepage is displayed"
+  }, {
+    "name" : "package",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554 11-11"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "da107723f9aa95b1.json",
+  "parameterValues" : [ "emulator-5554 11-11" ]
+}

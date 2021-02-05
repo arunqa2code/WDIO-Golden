@@ -1,0 +1,58 @@
+{
+  "uid" : "f503bb4761faca2a",
+  "name" : "Given the user enter the SKU and searches for the result",
+  "fullName" : "Pre-requisites for the script.Given the user enter the SKU and searches for the result",
+  "historyId" : "5c33307d08060e6d609fc7d62bcb5656",
+  "time" : {
+    "start" : 1611864068284,
+    "stop" : 1611864091803,
+    "duration" : 23519
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "$driver is not defined",
+  "statusTrace" : "ReferenceError: $driver is not defined\n                    at Context.<anonymous> (C:\\Users\\AXS3NOV\\wdio-golden\\api\\/validatepipBySkuSearch.js:42:9)\n                    at Context.executeSync (C:\\Users\\AXS3NOV\\wdio-golden\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at fibers_1.default (C:\\Users\\AXS3NOV\\wdio-golden\\node_modules\\@wdio\\sync\\build\\index.js:46:68)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Pre-requisites for the script"
+  }, {
+    "name" : "testClass",
+    "value" : "Pre-requisites for the script"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given the user enter the SKU and searches for the result"
+  }, {
+    "name" : "package",
+    "value" : "Pre-requisites for the script"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554 11-11"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f503bb4761faca2a.json",
+  "parameterValues" : [ "emulator-5554 11-11" ]
+}

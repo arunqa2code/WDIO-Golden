@@ -1,0 +1,262 @@
+{
+  "uid" : "dcd08d6222510968",
+  "name" : "Then I validate that the homepage is displayed",
+  "fullName" : "Validate if the homepage gets displayed.Then I validate that the homepage is displayed",
+  "historyId" : "c9c3a02ef4167765ff5e0a473be1a4d7",
+  "time" : {
+    "start" : 1611930938895,
+    "stop" : 1611930939005,
+    "duration" : 110
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I validate that the homepage is displayed"
+  }, {
+    "name" : "package",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554 11-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "aa93d6b27bdd281c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611930837613,
+        "stop" : 1611930837725,
+        "duration" : 112
+      }
+    }, {
+      "uid" : "77fdfacfce633b6c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611802665508,
+        "stop" : 1611802667305,
+        "duration" : 1797
+      }
+    }, {
+      "uid" : "7773ba6b5f079f98",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611802163223,
+        "stop" : 1611802163364,
+        "duration" : 141
+      }
+    }, {
+      "uid" : "ee31c9b258972b4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611802048249,
+        "stop" : 1611802048453,
+        "duration" : 204
+      }
+    }, {
+      "uid" : "336a27f0753d6d92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611797997964,
+        "stop" : 1611798001337,
+        "duration" : 3373
+      }
+    }, {
+      "uid" : "81f9112c38cb17c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611797949765,
+        "stop" : 1611797954466,
+        "duration" : 4701
+      }
+    }, {
+      "uid" : "e3010a17bbe50df2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611797796609,
+        "stop" : 1611797796711,
+        "duration" : 102
+      }
+    }, {
+      "uid" : "f54fad0cde19d406",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611797613731,
+        "stop" : 1611797613823,
+        "duration" : 92
+      }
+    }, {
+      "uid" : "add9335dc05da0a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611797539328,
+        "stop" : 1611797539424,
+        "duration" : 96
+      }
+    }, {
+      "uid" : "8866c9bb261725fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611797443028,
+        "stop" : 1611797443184,
+        "duration" : 156
+      }
+    }, {
+      "uid" : "8115afd87634898",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611797315539,
+        "stop" : 1611797315689,
+        "duration" : 150
+      }
+    }, {
+      "uid" : "b641ed49e8a614b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611793845351,
+        "stop" : 1611793845430,
+        "duration" : 79
+      }
+    }, {
+      "uid" : "bb00e67294804380",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611793782176,
+        "stop" : 1611793782339,
+        "duration" : 163
+      }
+    }, {
+      "uid" : "f8ba1a0a598a9881",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611789884519,
+        "stop" : 1611789884619,
+        "duration" : 100
+      }
+    }, {
+      "uid" : "201913e629e242db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611788125126,
+        "stop" : 1611788125329,
+        "duration" : 203
+      }
+    }, {
+      "uid" : "c9ab2095efdd59a8",
+      "status" : "failed",
+      "statusDetails" : "Expect $(`/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.TextView`) to be displayed\n                \n                Expected: \"displayed\"\n                Received: \"not displayed\"",
+      "time" : {
+        "start" : 1611788034607,
+        "stop" : 1611788039693,
+        "duration" : 5086
+      }
+    }, {
+      "uid" : "a4092531e00d1709",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611784564209,
+        "stop" : 1611784564322,
+        "duration" : 113
+      }
+    }, {
+      "uid" : "c366a3a97cda5584",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611779114669,
+        "stop" : 1611779114985,
+        "duration" : 316
+      }
+    }, {
+      "uid" : "15eb69abad315940",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611700338031,
+        "stop" : 1611700338208,
+        "duration" : 177
+      }
+    }, {
+      "uid" : "2e045427ca1b803a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611698907910,
+        "stop" : 1611698908066,
+        "duration" : 156
+      }
+    }, {
+      "uid" : "fae60f3bcaad980a",
+      "status" : "failed",
+      "statusDetails" : "Expect $(`/hierarchyy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.RelativeLayout[2]/android.widget.TextView`) to be displayed\n                \n                Expected: \"displayed\"\n                Received: \"not displayed\"",
+      "time" : {
+        "start" : 1611698736600,
+        "stop" : 1611698741703,
+        "duration" : 5103
+      }
+    }, {
+      "uid" : "33336d07f217d95e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611698637235,
+        "stop" : 1611698637346,
+        "duration" : 111
+      }
+    }, {
+      "uid" : "3d64d37671e2f398",
+      "status" : "broken",
+      "statusDetails" : "The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource",
+      "time" : {
+        "start" : 1611698542391,
+        "stop" : 1611698542497,
+        "duration" : 106
+      }
+    }, {
+      "uid" : "b328523e0f8b445d",
+      "status" : "broken",
+      "statusDetails" : "The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource",
+      "time" : {
+        "start" : 1611698462657,
+        "stop" : 1611698462741,
+        "duration" : 84
+      }
+    }, {
+      "uid" : "6b9f34f87200ef7e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611698342297,
+        "stop" : 1611698342761,
+        "duration" : 464
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dcd08d6222510968.json",
+  "parameterValues" : [ "emulator-5554 11-11" ]
+}

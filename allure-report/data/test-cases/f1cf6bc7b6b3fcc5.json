@@ -1,0 +1,58 @@
+{
+  "uid" : "f1cf6bc7b6b3fcc5",
+  "name" : "When I click on the store to localize",
+  "fullName" : "Validate if the homepage gets displayed.When I click on the store to localize",
+  "historyId" : "2c1a35c8bb362edb2b31677dc8368cb8",
+  "time" : {
+    "start" : 1611788029539,
+    "stop" : 1611788034606,
+    "duration" : 5067
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Can't call click on element with selector \"~SCARBOROUGH #7001\" because element wasn't found",
+  "statusTrace" : "Error: Can't call click on element with selector \"~SCARBOROUGH #7001\" because element wasn't found\n                    at Object.implicitWait [as default] (C:\\Users\\AXS3NOV\\wdio-golden\\node_modules\\webdriverio\\build\\utils\\implicitWait.js:26:19)\n                    at Element.runCommandWithHooks (C:\\Users\\AXS3NOV\\wdio-golden\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:65:24)\n                    at Element.wrapCommandFn (C:\\Users\\AXS3NOV\\wdio-golden\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:44:44)\n                    at Element.click (C:\\Users\\AXS3NOV\\wdio-golden\\node_modules\\webdriverio\\build\\middlewares.js:34:12)\n                    at Context.<anonymous> (C:\\Users\\AXS3NOV\\wdio-golden\\api\\/validateHomescreen.js:32:18)\n                    at Context.executeSync (C:\\Users\\AXS3NOV\\wdio-golden\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at fibers_1.default (C:\\Users\\AXS3NOV\\wdio-golden\\node_modules\\@wdio\\sync\\build\\index.js:46:68)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click on the store to localize"
+  }, {
+    "name" : "package",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554 11-11"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f1cf6bc7b6b3fcc5.json",
+  "parameterValues" : [ "emulator-5554 11-11" ]
+}

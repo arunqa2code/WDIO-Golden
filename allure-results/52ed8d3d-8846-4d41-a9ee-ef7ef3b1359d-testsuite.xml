@@ -1,0 +1,35 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1611797997145' stop='1611798001339'>
+    <name>Validate if the homepage gets displayed</name>
+    <title>Validate if the homepage gets displayed</title>
+    <test-cases>
+        <test-case start='1611797997146' status='passed' stop='1611797997963'>
+            <name>Given the HD app is displayed and user clicks on Prod button</name>
+            <title>Given the HD app is displayed and user clicks on Prod button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='emulator-5554 11-11'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1611797997964' status='passed' stop='1611798001337'>
+            <name>Then I validate that the homepage is displayed</name>
+            <title>Then I validate that the homepage is displayed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='emulator-5554 11-11'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

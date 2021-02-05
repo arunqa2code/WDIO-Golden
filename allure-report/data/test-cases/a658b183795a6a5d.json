@@ -1,0 +1,56 @@
+{
+  "uid" : "a658b183795a6a5d",
+  "name" : "When I click on the store to localize",
+  "fullName" : "Validate if the homepage gets displayed.When I click on the store to localize",
+  "historyId" : "2c1a35c8bb362edb2b31677dc8368cb8",
+  "time" : {
+    "start" : 1611700331583,
+    "stop" : 1611700338031,
+    "duration" : 6448
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click on the store to localize"
+  }, {
+    "name" : "package",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554 11-11"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a658b183795a6a5d.json",
+  "parameterValues" : [ "emulator-5554 11-11" ]
+}

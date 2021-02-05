@@ -1,0 +1,213 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "It should click the button successfully",
+    "uid" : "86eeab477fe295f6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1611687931002,
+      "stop" : 1611687955551,
+      "duration" : 24549
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "emulator-5554 11-11" ]
+  }, {
+    "name" : "The I validate that the homepage is displayed",
+    "uid" : "87bd090d018d668b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1611698060529,
+      "stop" : 1611698060598,
+      "duration" : 69
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "emulator-5554 11-11" ]
+  }, {
+    "name" : "Given the HD app is displayed and user clicks on Prod button",
+    "uid" : "14bb5ddd0f2dbada",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1611700526378,
+      "stop" : 1611700546569,
+      "duration" : 20191
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "emulator-5554 11-11" ]
+  }, {
+    "name" : "Then I validate that the homepage is displayed",
+    "uid" : "18fcd53efc47b491",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1611700546571,
+      "stop" : 1611700546685,
+      "duration" : 114
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "emulator-5554 11-11" ]
+  }, {
+    "name" : "Given the user enters a text and searches for the result",
+    "uid" : "4623af8457033926",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1611782662331,
+      "stop" : 1611782691323,
+      "duration" : 28992
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "emulator-5554 11-11" ]
+  }, {
+    "name" : "Then I validate that the search results page is loaded correctly",
+    "uid" : "215c6892fa4dd3a5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1611782691324,
+      "stop" : 1611782691324,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "emulator-5554 11-11" ]
+  }, {
+    "name" : "And I enter a SKU in search textbox and click on Search",
+    "uid" : "c0aa0a4bbe9f6694",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1611798510908,
+      "stop" : 1611798510953,
+      "duration" : 45
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "emulator-5554 11-11" ]
+  }, {
+    "name" : "And I validate that the homepage is displayed",
+    "uid" : "8fcad47e12d2049b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1611801917278,
+      "stop" : 1611801923055,
+      "duration" : 5777
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "emulator-5554 11-11" ]
+  }, {
+    "name" : "Then I validate that the PIP page is loaded correctly",
+    "uid" : "1535fcdcb8231070",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1611802890090,
+      "stop" : 1611802890091,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "emulator-5554 11-11" ]
+  }, {
+    "name" : "\"before all\" hook for Pre-requisites for the script",
+    "uid" : "c13ea11ea6e71fd2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1611930540122,
+      "stop" : 1611930549674,
+      "duration" : 9552
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "emulator-5554 11-11" ]
+  }, {
+    "name" : "Given the HD app is displayed and user clicks on Prod button",
+    "uid" : "b6fba465ab6ba3ed",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1611930918472,
+      "stop" : 1611930919088,
+      "duration" : 616
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "emulator-5554 11-11" ]
+  }, {
+    "name" : "And I allow the HD app to access the device location",
+    "uid" : "6c2b44612190e2af",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1611930919089,
+      "stop" : 1611930923631,
+      "duration" : 4542
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "emulator-5554 11-11" ]
+  }, {
+    "name" : "And I type in the pincode and click on enter",
+    "uid" : "a8b62f03bdb681d8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1611930923632,
+      "stop" : 1611930932509,
+      "duration" : 8877
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "emulator-5554 11-11" ]
+  }, {
+    "name" : "When I click on the store to localize",
+    "uid" : "9b5eb6b958426763",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1611930932510,
+      "stop" : 1611930938895,
+      "duration" : 6385
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "emulator-5554 11-11" ]
+  }, {
+    "name" : "Then I validate that the homepage is displayed",
+    "uid" : "dcd08d6222510968",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1611930938895,
+      "stop" : 1611930939005,
+      "duration" : 110
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "emulator-5554 11-11" ]
+  }, {
+    "name" : "Given the user enter the SKU and searches for the result",
+    "uid" : "c7b411a0cb319f42",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1611930958887,
+      "stop" : 1611930983666,
+      "duration" : 24779
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "emulator-5554 11-11" ]
+  } ]
+}

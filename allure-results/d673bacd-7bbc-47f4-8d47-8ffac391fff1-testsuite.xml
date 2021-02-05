@@ -1,0 +1,28 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1611680552390' stop='1611680559152'>
+    <name>Attempt to click the button in Android</name>
+    <title>Attempt to click the button in Android</title>
+    <test-cases>
+        <test-case start='1611680552391' status='broken' stop='1611680559151'>
+            <name>It should click the button successfully</name>
+            <title>It should click the button successfully</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='emulator-5554 11-11'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>AndroidKeyCode is not defined</message>
+                <stack-trace>ReferenceError: AndroidKeyCode is not defined
+                    at Context.&lt;anonymous> (C:\Users\AXS3NOV\wdio-golden\api\/click.js:37:29)
+                    at Context.executeSync (C:\Users\AXS3NOV\wdio-golden\node_modules\@wdio\sync\build\index.js:25:22)
+                    at fibers_1.default (C:\Users\AXS3NOV\wdio-golden\node_modules\@wdio\sync\build\index.js:46:68)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

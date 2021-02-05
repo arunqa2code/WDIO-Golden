@@ -1,0 +1,37 @@
+{
+  "total" : 3,
+  "items" : [ {
+    "uid" : "6429862de6c3c9f2d5985ac66f071068",
+    "name" : "Validate if the homepage gets displayed",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 8
+    }
+  }, {
+    "uid" : "fb5274db1771c18fb44eaf1317547a40",
+    "name" : "Pre-requisites for the script",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "017ef5eb2327b748c84b219ec7b0df0f",
+    "name" : "Attempt to click the button in Android",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

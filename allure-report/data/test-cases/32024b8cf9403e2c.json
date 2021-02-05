@@ -1,0 +1,56 @@
+{
+  "uid" : "32024b8cf9403e2c",
+  "name" : "Given the HD app is displayed and user clicks on Prod button",
+  "fullName" : "Validate if the homepage gets displayed.Given the HD app is displayed and user clicks on Prod button",
+  "historyId" : "6caf4e4d1978f79a6aed6ab59f854933",
+  "time" : {
+    "start" : 1611698443363,
+    "stop" : 1611698443987,
+    "duration" : 624
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given the HD app is displayed and user clicks on Prod button"
+  }, {
+    "name" : "package",
+    "value" : "Validate if the homepage gets displayed"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554 11-11"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "32024b8cf9403e2c.json",
+  "parameterValues" : [ "emulator-5554 11-11" ]
+}

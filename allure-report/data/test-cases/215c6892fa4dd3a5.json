@@ -1,0 +1,58 @@
+{
+  "uid" : "215c6892fa4dd3a5",
+  "name" : "Then I validate that the search results page is loaded correctly",
+  "fullName" : "Pre-requisites for the script.Then I validate that the search results page is loaded correctly",
+  "historyId" : "c24e8615c43a5786b9b0654512f114a0",
+  "time" : {
+    "start" : 1611782691324,
+    "stop" : 1611782691324,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Pre-requisites for the script"
+  }, {
+    "name" : "testClass",
+    "value" : "Pre-requisites for the script"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I validate that the search results page is loaded correctly"
+  }, {
+    "name" : "package",
+    "value" : "Pre-requisites for the script"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554 11-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "215c6892fa4dd3a5.json",
+  "parameterValues" : [ "emulator-5554 11-11" ]
+}
